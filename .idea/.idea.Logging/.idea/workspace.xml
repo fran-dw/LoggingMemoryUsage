@@ -8,11 +8,18 @@
     <projectFile>Logging.Default/Logging.Default.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43007602-dea7-48de-9a2e-aa6bb0bfb4e6" name="Changes" comment="gitignore" />
+    <list default="true" id="43007602-dea7-48de-9a2e-aa6bb0bfb4e6" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1566186ffe4dacb375daaba02f08390ff632a4be54422704f9f4ceef731/ConsoleLogger.cs" root0="SKIP_HIGHLIGHTING" />
@@ -133,7 +140,7 @@
       <updated>1667921602972</updated>
       <workItem from="1667921607067" duration="4649000" />
       <workItem from="1667928548714" duration="5722000" />
-      <workItem from="1667934655317" duration="331000" />
+      <workItem from="1667934655317" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1667934756877</created>
@@ -142,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667934756877</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <created>1667935028681</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667935028681</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1667935260683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667935260683</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +185,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="." />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
